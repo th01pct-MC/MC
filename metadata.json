@@ -1,0 +1,6 @@
+{
+  "name": "EduResource",
+  "description": "Hệ thống quản lý và chia sẻ tài nguyên giáo dục môn Tin học dành cho Giáo viên THPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
